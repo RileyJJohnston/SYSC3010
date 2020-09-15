@@ -1,2 +1,2 @@
-# SYSC3010_Riley_Johnston
+# SYSC3010
 SYSC 3010 Labs
