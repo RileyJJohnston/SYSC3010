@@ -24,7 +24,9 @@ while True:
         elif event.direction == 'right':
             print(initials[index%2])
         elif event.direction == 'down':
+            sense.clear()
             print(initials[index%2])
         elif event.direction == 'up':
             print(initials[index%2])
+            sense.show_message("Success")
         index+=1
